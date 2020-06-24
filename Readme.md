@@ -1,6 +1,6 @@
-# DS-Java
+# DS-GWY
 
-DS-Java论坛系统，简单来说就是一个论坛，这个系统是本人的处女作。项目的取名是因为当时比较偏爱Java以及正在DreamStation这个团队里面，所以就取名为DS-Java论坛了。
+由DS-Java论坛系统改进而来。原作者链接我会放在末尾供大家参考。
 
 项目用到的相关技术、工具等
 
@@ -25,5 +25,5 @@ DS-Java论坛系统，简单来说就是一个论坛，这个系统是本人的�
 注意：**打开根目录里面的sql文件，在数据库软件中建一个dsjava数据库，然后运行sql文件。还有数据库默认用户名root和密码123456，如果需要修改请到src下面修改database.properties文件**
 
 
-点击查看<a href="http://panhainan.com/#!/blog/article/000073820471410" target="_blank">DS-Java 论坛系统详细介绍</a>
+点击查看<a href="http://panhainan.com/#!/blog/article/000073820471410" target="_blank">原作者的博客 DS-Java 论坛系统详细介绍（访问有点慢）</a>
 
