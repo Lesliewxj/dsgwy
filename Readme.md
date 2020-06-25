@@ -1,12 +1,12 @@
 # DS-GWY
-
+一个由Java写的公务员论坛，用了spring MVC的框架，图片后面我会补上。
 由DS-Java论坛系统改进而来。原作者链接我会放在末尾供大家参考。
 
 项目用到的相关技术、工具等
 
 ----------
 
-开发平台及工具：Windows 8 | MyEclipse10.7
+开发平台及工具：Windows 10 | Eclipse
 
 涉及的编程语言：Java  |  JavaScript  |  HTML
 
@@ -17,6 +17,8 @@
 数据库：MySQL 5.6
 
 服务器：Tomcat 7.x
+
+注意：数据库一定要使用MySQL5.6，不然SQL文件无法导入，可能会出现一些奇怪的错误。
 
 用到的其他项目：百度富文本编辑器 UEditor
 
