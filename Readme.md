@@ -1,30 +1,30 @@
 #公考之路论坛
 
-一个由Java写的公务员论坛，用了spring MVC的框架，由DS-Java论坛系统改进而来。
+A civil servant forum written in Java, using the spring MVC framework, improved from the DS-Java forum system.
 
-项目用到的相关技术、工具等
+Related technologies and tools used in the project
 
 ----------
 
-开发平台及工具：Windows 10 | Eclipse
+Development platform and tools: Windows 10 | Eclipse
 
-涉及的编程语言：Java  |  JavaScript  |  HTML
+The programming language involved: Java | JavaScript | HTML
 
-涉及的框架技术：Struts2  |  Spring  |  Hibernate
+Framework technology involved: Struts2 | Spring | Hibernate
 
-其他技术：CSS  |  JQuery  |  Ajax  |  JSON  |  JSP  |  Servlet
+Other technologies: CSS | JQuery | Ajax | JSON | JSP | Servlet
 
-数据库：MySQL 5.6 （only）
+Database: MySQL 5.6 (only)
 
-服务器：Tomcat 7.0+
+Server: Tomcat 7.0+
 
-注意：数据库一定要使用MySQL5.6，不然SQL文件无法导入，可能会出现一些奇怪的错误。tomcat服务器7.0以后的都可以。
+Note: The database must use MySQL5.6, otherwise the SQL file cannot be imported and some strange errors may occur. Tomcat server 7.0 or later can be used.
 
-用到的其他项目：百度富文本编辑器 UEditor
+Other items used: Baidu rich text editor UEditor
 
 
 
-注意：**打开根目录里面的sql文件，在数据库软件中建一个dsjava数据库，然后运行sql文件。还有数据库默认用户名root和密码123456，如果需要修改请到src下面修改database.properties文件**
+Note: **Open the sql file in the root directory, build a dsjava database in the database software, and then run the sql file. There is also the database default username root and password 123456, if you need to modify it, please go to src to modify the database.properties file**
 
 
 
