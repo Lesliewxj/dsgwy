@@ -16,7 +16,7 @@ Other technologies: CSS | JQuery | Ajax | JSON | JSP | Servlet
 
 Database: MySQL 5.6 (only)
 
-Server: Tomcat 7.0+
+Server: Tomcat 7.0+(or higher)
 
 Note: The database must use MySQL5.6, otherwise the SQL file cannot be imported and some strange errors may occur. Tomcat server 7.0 or later can be used.
 
